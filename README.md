@@ -1,32 +1,38 @@
-# Hi, I'm Varshith Medidhi 👋
+# Varshith Medidhi
 
-**Data Science · Machine Learning · Applied AI · Python Engineering**
+**Data Scientist · Machine Learning Engineer · Applied AI**
 
-I build and explore data-driven applications, from statistical modeling and ML pipelines to retrieval-augmented generation and backend services. This profile documents my projects, engineering decisions, experiments, and what I learn along the way.
+I work across data science, machine learning, and AI application development, with a focus on translating ambiguous problems into measurable experiments and maintainable software. My interests include fraud and risk analytics, document intelligence, retrieval-augmented generation (RAG), and production-oriented Python services.
 
-🔗 [Portfolio](https://varshithm.netlify.app) · [GitHub](https://github.com/Varsh1020)
+[Portfolio](https://varshithm.netlify.app) · [GitHub repositories](https://github.com/Varsh1020?tab=repositories)
 
-## Areas of focus
+---
 
-- **Data science:** Python, SQL, exploratory analysis, experiment design, model evaluation.
-- **Machine learning:** Feature engineering, classification, error analysis, reproducible training.
-- **Applied AI:** Retrieval-augmented generation, LLM evaluation, agent workflows.
-- **Software engineering:** APIs, automated tests, version control, CI/CD.
+### Selected work
 
-## What I'm building
+**[Fraud Detection — Reproducible ML Baseline](https://github.com/Varsh1020/fraud-detection-ml)**  
+A public, synthetic-data project exploring imbalanced classification and the precision–recall tradeoff. Implements a class-weighted logistic-regression baseline, stratified train/validation/test splits, validation-only threshold selection, held-out evaluation, automated tests, and GitHub Actions. Results and limitations are documented in the repository.
 
-I'm developing public, reproducible projects that demonstrate how I approach real engineering problems. I'll add links here as each project is implemented, tested, and documented.
+*Python · scikit-learn · pytest · GitHub Actions*
 
-| Project area | What it will demonstrate | Status |
-| --- | --- | --- |
-| Fraud detection | Imbalanced classification, precision–recall tradeoffs, explainability | Planned |
-| Document retrieval | Ingestion, retrieval, grounded answers, evaluation | Planned |
-| ML engineering | Reproducible training, testing, CI, model serving | Planned |
+### Engineering focus
 
-## How I work
+| Discipline | Areas |
+| --- | --- |
+| **Data science & ML** | Python, SQL, statistical analysis, feature engineering, classification, model evaluation |
+| **Generative AI** | LLM applications, RAG, semantic search, agent workflows, evaluation |
+| **Backend & data** | FastAPI, Python services, data pipelines, relational and vector databases |
+| **Delivery** | Git, Docker, automated testing, CI/CD, cloud-oriented development |
 
-I value clear problem definitions, sensible baselines, honest evaluation, maintainable code, and documenting tradeoffs and limitations. For public portfolio work, I use public or synthetic datasets and keep confidential employer code and data private.
+### Current portfolio roadmap
 
-## Let's connect
+- **Document retrieval and evaluation:** Build and benchmark an end-to-end RAG workflow with traceable retrieval results.
+- **ML systems:** Extend reproducible experimentation toward packaging, model serving, monitoring, and deployment.
 
-Explore my [portfolio](https://varshithm.netlify.app) or browse the repositories below. Project documentation will include setup instructions, experiments, results, and limitations as they're completed.
+These are planned public portfolio projects; links will appear when implementations are published and verified.
+
+### Approach
+
+I prioritize clear baselines, defensible metrics, reproducible experiments, and practical tradeoffs. Public repositories contain portfolio code and synthetic or appropriately licensed data—not proprietary employer implementations.
+
+**Explore my work:** [Portfolio](https://varshithm.netlify.app) · [Fraud Detection ML](https://github.com/Varsh1020/fraud-detection-ml)
